@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this echo1
+=======
+this echo2
+>>>>>>> branch21
